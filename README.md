@@ -1,13 +1,13 @@
 # API-To-Do-List
 Curso DH Full Stack - Criação de API
 
-DESAFIO DE UM PROCESSO SELETIVO AO VIVO
+# DESAFIO DE UM PROCESSO SELETIVO AO VIVO
 
-# Primeira Etapa - 5 minutos 
+# Primeira Etapa - 5 minutos - OK
   1 - Criar um repositório no github <br/>
   2 - Clonar o repositório para a máquina <br/>
  
-# Segunda Etapa - 10 minutos 
+# Segunda Etapa - 10 minutos - OK
   1 - Iniciem um arquivo package.json (através do npm) <br/>
   2 - Adicionar os módulos express e cors no projeto <br/>
   3 - Criar o arquivo .gitignore na raíz do projeto e adicionar a pasta node_modules <br/>
@@ -15,11 +15,11 @@ DESAFIO DE UM PROCESSO SELETIVO AO VIVO
   5 - Tornar o index.js o servidor da aplicação <br/>
   6 - Startar o servidor <br/>
 
-# Terceira Etapa - 3 minutos 
+# Terceira Etapa - 3 minutos - OK
   1 - Criar a propriedade start no package.json para a aplicação rodar com o comando npm start <br/>
-  2 - Adicionar na propriedade start o nodemon para que não tenhamos necessidade de ficar atualizando o projeto <br/>
+  2 - Adicionar na propriedade npx sequelize migration:generate --name create_users_tablestart o nodemon para que não tenhamos necessidade de ficar atualizando o projeto <br/>
 
-# Quarta Etapa - 8 minutos 
+# Quarta Etapa - 8 minutos - OK
   1 - Criar uma arquivo src/routes/index.js <br/>
   2 - Criar uma rota '/' que retorne Hello World na tela (podem fazer a função no segundo parâmetro sem criar controller) <br/>
   3 - Importar as rotas no arquivo src/index.js
